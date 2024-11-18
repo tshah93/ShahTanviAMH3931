@@ -7,5 +7,5 @@ creator: tbd
 _date: tbd
 source: tbd
 
-_path: /media_files/images/bunmei-2.jpg 
+_path: /media_files/images/bunmeimovement.jpg 
 layout: media_description
