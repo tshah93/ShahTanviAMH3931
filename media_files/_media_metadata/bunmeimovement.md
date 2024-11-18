@@ -1,3 +1,5 @@
+---
+
 name: BunmeiMovement
 media_type: image
 
@@ -9,3 +11,4 @@ source: tbd
 
 _path: /media_files/images/bunmeimovement.jpg 
 layout: media_description
+---
