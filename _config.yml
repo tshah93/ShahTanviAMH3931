@@ -1,8 +1,8 @@
-title: Title
+title: Comparative Ethnicity
 email: your-email@example.com
-description: by Authors
+description: by Josef Quiroz, Shane Lindsey, Tanvi Shah, Alicia Wagner, Aaron Williams
 
-baseurl: "/ScholarMinPub" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
+baseurl: "/ShahTanviAMH3931" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
 
 twitter_username: jekyllrb
 github_username:  jekyll
