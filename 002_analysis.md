@@ -26,7 +26,8 @@ Dokuhakuroku (The Emperor’s Monologue)[^4]
 
 
 
-[^1]:“Japan - Imperialism, Shoguns, Feudalism | Britannica,” November 26, 2024. [website] (https://www.britannica.com/place/Japan/The-emergence-of-imperial-Japan..)
-[^2]:Pacific Atrocities Education. “Visual Puppeteer: Japanese Propaganda During WWII.” Accessed November 28, 2024. [website] (http://www.pacificatrocities.org/1/post/2019/01/visual-puppeteer-japanese-propaganda-during-world-war-ii.html.)
-[^3]:Manchukuo | Imperialism, Japanese Occupation, & Map | Britannica.” Accessed November 28, 2024. [website] (https://www.britannica.com/place/Manchukuo.)
-[^4]:Hirohito | Biography, Full Name, World War II, Surrender, & Facts | Britannica. 19 Nov. 2024, [website] (https://www.britannica.com/biography/Hirohito.)
+[^1]:“Japan - Imperialism, Shoguns, Feudalism | Britannica,” November 26, 2024. 
+(https://www.britannica.com/place/Japan/The-emergence-of-imperial-Japan..)
+[^2]:Pacific Atrocities Education. “Visual Puppeteer: Japanese Propaganda During WWII.” Accessed November 28, 2024. (http://www.pacificatrocities.org/1/post/2019/01/visual-puppeteer-japanese-propaganda-during-world-war-ii.html.)
+[^3]:Manchukuo | Imperialism, Japanese Occupation, & Map | Britannica.” Accessed November 28, 2024. (https://www.britannica.com/place/Manchukuo.)
+[^4]:Hirohito | Biography, Full Name, World War II, Surrender, & Facts | Britannica. 19 Nov. 2024, (https://www.britannica.com/biography/Hirohito.)
