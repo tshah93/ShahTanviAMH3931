@@ -10,7 +10,11 @@ Japan’s aggressive and fascistic actions after World War I laid the groundwork
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'BunmeiMovement'" %} {% include media.html pages=media %}
 
-From this period of political realignment re-emerged the concept of “Yamato Damashii” (Japanese Spirit) which symbolized their national pride.  Loyalty, courage, and honor (found in Shinto beliefs and the Bushido code) were key to this “Japanese Spirit,” and these qualities were tied to Japan, both land and people; an idea that would later be evoked commonly in their propaganda. The quote below was a popular slogan used during the Sino-Japanese War where this “Japanese Spirit” was used as a rallying cry to their civilians:
+From this period of political realignment re-emerged the concept of “Yamato Damashii” (Japanese Spirit) which symbolized their national pride.  Loyalty, courage, and honor (found in Shinto beliefs and the Bushido code) were key to this “Japanese Spirit,” and these qualities were tied to Japan, both land and people; an idea that would later be evoked commonly in their propaganda. 
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'JapanPropaganda'" %} {% include media.html pages=media %}
+
+The quote below was a popular slogan used during the Sino-Japanese War where this “Japanese Spirit” was used as a rallying cry to their civilians:
 
 "Yamato-damashii wa nanigoto mo kanau" (大和魂は何事も叶う)
 "With the Japanese spirit, anything can be achieved."
