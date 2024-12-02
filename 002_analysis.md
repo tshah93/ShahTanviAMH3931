@@ -12,7 +12,7 @@ Japan’s aggressive and fascistic actions after World War I laid the groundwork
 
 From this period of political realignment re-emerged the concept of “Yamato Damashii” (Japanese Spirit) which symbolized their national pride.  Loyalty, courage, and honor (found in Shinto beliefs and the Bushido code) were key to this “Japanese Spirit,” and these qualities were tied to Japan, both land and people; an idea that would later be evoked commonly in their propaganda. 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'JapanPropaganda'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'JapanPropaganda'" %} {% include media.html pages=media %}[^2]
 
 The quote below was a popular slogan used during the Sino-Japanese War where this “Japanese Spirit” was used as a rallying cry to their civilians:
 
@@ -25,5 +25,6 @@ The Meiji government embraced this belief as it fostered Japanese nationalism at
 Dokuhakuroku (The Emperor’s Monologue)[^4]
 
 [^1]:“Japan - Imperialism, Shoguns, Feudalism | Britannica,” November 26, 2024. https://www.britannica.com/place/Japan/The-emergence-of-imperial-Japan..
+[^2]:Pacific Atrocities Education. “Visual Puppeteer: Japanese Propaganda During WWII.” Accessed November 28, 2024. http://www.pacificatrocities.org/1/post/2019/01/visual-puppeteer-japanese-propaganda-during-world-war-ii.html.
 [^3]:Manchukuo | Imperialism, Japanese Occupation, & Map | Britannica.” Accessed November 28, 2024. https://www.britannica.com/place/Manchukuo.
 [^4]:Hirohito | Biography, Full Name, World War II, Surrender, & Facts | Britannica. 19 Nov. 2024, https://www.britannica.com/biography/Hirohito.
