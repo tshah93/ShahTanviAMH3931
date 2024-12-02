@@ -5,8 +5,8 @@ number: 2
 ---
 
 # Analysis
-
-Now analyze your historical subject. (1000 words). You can include images, videos and PDFs that pertain to your subject using the examples below. To add more, simply copy, paste, and change the title of your item to correspond with your media file.
+## Japan 
+Japan’s aggressive and fascistic actions after World War I laid the groundwork for their imperial ambitions across Asia. From the early 30s to the end of the war, Japan invaded and annexed territories throughout all of Asia, even reaching into US territories and Australia, claiming to be the liberators from the east. This claim came from the belief that Japan alone was capable of leading Asia, an idea that soon tied itself to their national rhetoric and a key reason for war. This ideology traces back to Pan-Asianism, a 19th-century movement advocating for Asian unity 
 
 # Embedding a Single Image
 
