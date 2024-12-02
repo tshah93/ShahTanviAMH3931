@@ -7,7 +7,6 @@ number: 2
 # Analysis
 ## Japan 
 Japan’s aggressive and fascistic actions after World War I laid the groundwork for their imperial ambitions across Asia. From the early 30s to the end of the war, Japan invaded and annexed territories throughout all of Asia, even reaching into US territories and Australia, claiming to be the liberators from the east.[^1] This claim came from the belief that Japan alone was capable of leading Asia, an idea that soon tied itself to their national rhetoric and a key reason for war. This ideology traces back to Pan-Asianism, a 19th-century movement advocating for Asian unity following Western Imperialism. During the Meiji Period. Japan took this idea and co-opted it in order to advocate for their own territorial ambitions. 
-
 {% assign media = site.media_metadata | where_exp: “item”, “item.name == ‘BunmeiMovement’” %} {% include media.html pages=media %}
 
 From this period of political realignment re-emerged the concept of “Yamato Damashii” (Japanese Spirit) which symbolized their national pride.  Loyalty, courage, and honor (found in Shinto beliefs and the Bushido code) were key to this “Japanese Spirit,” and these qualities were tied to Japan, both land and people; an idea that would later be evoked commonly in their propaganda. The quote below was a popular slogan used during the Sino-Japanese War where this “Japanese Spirit” was used as a rallying cry to their civilians:
