@@ -9,7 +9,7 @@ creator:
 _date: 
 source: 
 
-_path: /media_files/images/emperornapoleon.jpg 
+_path: /media_files/images/Japan.png 
 layout: media_description
 
 --- 
