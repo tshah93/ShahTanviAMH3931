@@ -24,6 +24,11 @@ The Meiji government embraced this belief as it fostered Japanese nationalism at
 "The purpose of Japan’s advance into Southeast Asia was to secure the resources which Japan needed for self-preservation, as well as to liberate the Asian nations under European rule, so they might stand alongside Japan as members of the East Asian Co-Prosperity Sphere."
 Dokuhakuroku (The Emperor’s Monologue)[^4]
 
+The Greater East Asia Co-Prosperity Sphere was a suggested political and economic bloc in Asia united and led by Japan.[^5] Japanese politicians, posters, and literature propagated this idea of a better Asia under Japan. Prime Minister Hideki Tojo, echoed these sentiments domestically and in order to justify their annexations of Korea, China, and others across Asia and the Pacific: 
+
+“The countries of East Asia must be guided to independence and self-sufficiency through a spirit of mutual aid and solidarity, under the leadership of Japan… Japan is tasked with liberating Asia from Western oppression.”
+Prime Minister Hideki Tojo
+
 
 ## USSR
 Prior to WWII, the Soviets implemented a policy encouraging greater Soviet internationalism, or Korenizatsiia. However, this would quickly disintegrate, creating a more centrist and Russian catered Soviet Republics. Integrative policies would reverse under Stalin and worsen as the war progressed. Nevertheless, this apotheosized ideology of integration never matched reality, only existing in propaganda, another glorified fabrication of the Soviet legacy. Despite the official stance of internationalism, the Soviet Union possessed the latter including mass ethnic deportations, Russian chauvinism, and racial hierarchies that would strengthen with the growing suspicion of nationalities outside of Russia. However, it is important to note armies were not racially segregated or policed not nearly to the extent we can observe in the United States and Great Britain. 
@@ -40,3 +45,4 @@ Hitler coined a term which is the “un-people” referring to how he thinks the
 [^2]:Pacific Atrocities Education. “Visual Puppeteer: Japanese Propaganda During WWII.” Accessed November 28, 2024. http://www.pacificatrocities.org/1/post/2019/01/visual-puppeteer-japanese-propaganda-during-world-war-ii.html.
 [^3]:Manchukuo | Imperialism, Japanese Occupation, & Map | Britannica.” Accessed November 28, 2024. https://www.britannica.com/place/Manchukuo.
 [^4]:Hirohito | Biography, Full Name, World War II, Surrender, & Facts | Britannica. 19 Nov. 2024, https://www.britannica.com/biography/Hirohito.
+[^5]:Greater East Asia Co-Prosperity Sphere (GEACPS) | Definition, Summary, History, Purpose, & Japan | Britannica. 11 Oct. 2024, https://www.britannica.com/topic/Greater-East-Asia-Co-prosperity-Sphere.
