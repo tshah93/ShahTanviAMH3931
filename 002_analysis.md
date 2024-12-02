@@ -29,6 +29,8 @@ The Greater East Asia Co-Prosperity Sphere was a suggested political and economi
 “The countries of East Asia must be guided to independence and self-sufficiency through a spirit of mutual aid and solidarity, under the leadership of Japan… Japan is tasked with liberating Asia from Western oppression.”
 Prime Minister Hideki Tojo
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Prosperity'" %} {% include media.html pages=media %}
+
 
 ## USSR
 Prior to WWII, the Soviets implemented a policy encouraging greater Soviet internationalism, or Korenizatsiia. However, this would quickly disintegrate, creating a more centrist and Russian catered Soviet Republics. Integrative policies would reverse under Stalin and worsen as the war progressed. Nevertheless, this apotheosized ideology of integration never matched reality, only existing in propaganda, another glorified fabrication of the Soviet legacy. Despite the official stance of internationalism, the Soviet Union possessed the latter including mass ethnic deportations, Russian chauvinism, and racial hierarchies that would strengthen with the growing suspicion of nationalities outside of Russia. However, it is important to note armies were not racially segregated or policed not nearly to the extent we can observe in the United States and Great Britain. 
