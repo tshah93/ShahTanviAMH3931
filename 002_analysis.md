@@ -20,4 +20,5 @@ Japan’s aggressive and fascistic actions after World War I laid the groundwork
 # Linking to a PDF File
 
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
+
 [^1]:“Japan - Imperialism, Shoguns, Feudalism | Britannica,” November 26, 2024. https://www.britannica.com/place/Japan/The-emergence-of-imperial-Japan..
