@@ -68,6 +68,7 @@ Ultimately the rise and fall of Japanese racial superiority during World War 2 a
 ## Germany
 ### Ideology on Racial and Ethnic Issues
 The basic ideology on racial and ethnic issues in Nazi Germany pointed to the fact that they believed that Jews were an inferior race. This way of thinking is known as Antisemitism. Adolf Hitler embraced Antisemitism in his baseline thoughts, feelings, and actions. Actions executed in Nazi Germany include the boycotting of Jewish-owned businesses, the Nuremberg Race Laws, and the Civil Service Act are a direct result of how Hitler viewed the Jewish Race and convinced his citizens to act towards Jewish people. 
+
 Hitler coined a term which is the “un-people” referring to how he thinks the Jewish people are a parasitic race and are not a real race of people. In 1935 the Nuremberg Race Laws were passed, this law stripped German Jews of their citizenship and declared them as “subjects” of the state. The Nuremberg Race Laws were divided into 2 Laws related to race. These laws were the Reich Citizenship Law and the Law for Protection of German Blood and German Honor. The Reich Citizenship Law is what stripped German Jews of their citizenship, their right to vote and participation in politics. The German Blood and German Honor Law guarded against relations between citizens of German Blood and Jewish persons because the Nazis didn’t want mixed race offspring.
 
 [^1]:“Japan - Imperialism, Shoguns, Feudalism  Britannica,” November 26, 2024. https://www.britannica.com/place/Japan/The-emergence-of-imperial-Japan.
