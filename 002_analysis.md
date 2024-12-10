@@ -29,8 +29,9 @@ The Greater East Asia Co-Prosperity Sphere was a suggested political and economi
 “The countries of East Asia must be guided to independence and self-sufficiency through a spirit of mutual aid and solidarity, under the leadership of Japan… Japan is tasked with liberating Asia from Western oppression.”
 Prime Minister Hideki Tojo
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Prosperity'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Prosperity'" %} {% include media.html pages=media %}[^6]
 
+In a realpolitik view, Japan’s economy and industrialization were too reliant on Chinese imports and labor and this dependence created vulnerabilities that Japan sought to address through territorial expansion and resource control, particularly during its imperialist campaigns in the early 20th century. Combining this with the US’s strict embargoes and oil dominance, resulted in policy aiming towards resource independence[^7]. Using false flag operations like The Mukden[^8] and Marco Polo Bridge[^9] incidents, Japan invaded other Asian countries. Japan mobilized their newly mechanized army to make vast land grabs throughout China and Vietnam. They also annexed regions all across mainland and Southeast Asia. 
 
 ## USSR
 Prior to WWII, the Soviets implemented a policy encouraging greater Soviet internationalism, or Korenizatsiia. However, this would quickly disintegrate, creating a more centrist and Russian catered Soviet Republics. Integrative policies would reverse under Stalin and worsen as the war progressed. Nevertheless, this apotheosized ideology of integration never matched reality, only existing in propaganda, another glorified fabrication of the Soviet legacy. Despite the official stance of internationalism, the Soviet Union possessed the latter including mass ethnic deportations, Russian chauvinism, and racial hierarchies that would strengthen with the growing suspicion of nationalities outside of Russia. However, it is important to note armies were not racially segregated or policed not nearly to the extent we can observe in the United States and Great Britain. 
@@ -48,3 +49,7 @@ Hitler coined a term which is the “un-people” referring to how he thinks the
 [^3]:Manchukuo | Imperialism, Japanese Occupation, & Map | Britannica.” Accessed November 28, 2024. https://www.britannica.com/place/Manchukuo.
 [^4]:Hirohito | Biography, Full Name, World War II, Surrender, & Facts | Britannica. 19 Nov. 2024, https://www.britannica.com/biography/Hirohito.
 [^5]:Greater East Asia Co-Prosperity Sphere (GEACPS) | Definition, Summary, History, Purpose, & Japan | Britannica. 11 Oct. 2024, https://www.britannica.com/topic/Greater-East-Asia-Co-prosperity-Sphere.
+[^6]: “Visual Puppeteer: Japanese Propaganda During WWII.” Pacific Atrocities Education, http://www.pacificatrocities.org/1/post/2019/01/visual-puppeteer-japanese-propaganda-during-world-war-ii.html. Accessed 28 Nov. 2024.
+[^7]:Milestones in the History of U.S. Foreign Relations - Office of the Historian. https://history.state.gov/milestones/1937-1945/pearl-harbor. Accessed 28 Nov. 2024.
+[^8]:Mukden Incident | Summary | Britannica. https://www.britannica.com/event/Mukden-Incident. Accessed 28 Nov. 2024.
+[^9]:“Marco Polo Bridge Incident | Sino-Japanese War, 1937, Beijing | Britannica,” November 25, 2024. https://www.britannica.com/event/Marco-Polo-Bridge-Incident.
