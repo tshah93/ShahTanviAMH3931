@@ -4,7 +4,7 @@ name: BunmeiMovement
 media_type: image
 
 _title: Art From The Bunmei-Kaika Movement Demonstrating Technological Developments
- description: 
+description: 
 creator: 
 _date:
 source: 
