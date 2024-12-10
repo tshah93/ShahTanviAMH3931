@@ -51,7 +51,15 @@ And throughout the empire, Japan engaged in abducting women and sexually abusing
 
 As Japan’s war efforts intensified, specifically after the bombing of Pearl Harbor in 1941, their view of racial supremacy began to change as mounting defeats from the American forces came. Japanese propaganda initially labeled the United States as weak and apathetic, one weakened by multiculturalism. They often made fun of the “The American Melting Pot” in propaganda, criticizing the United States’s diverse population. 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'demons'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'demons'" %} {% include media.html pages=media %}[^19]
+
+As the war progressed (specifically after The Battle of Midway in 1942), Japanese concepts towards race began to change. As the tide of war quickly went in favor of the US as they held naval, air, and land superiority exposed the inadequacy of Japan’s propaganda about American weaknesses. Even Emperor Hirohito expressed fear as the Americans began their Island Hopping campaign:
+
+“Our enemies, though weakened, still have the strength to strike back. Our position has become more perilous. We must take all necessary measures to ensure the defense of our homeland[^20].”
+
+The American military’s resilience and technological superiority challenged the ideas of Japanese supremacy that their government instilled upon the civilians. Japan suffered setback after setback: firebombings, destroyed infrastructure, culminating in the nuking of both Hiroshima and Nagasaki, destroying any pre-conceived notions about Japanese superiority. The irony of them being defeated by the epitome of a multicultural nation was not lost on them either. 
+
+
 ## USSR
 Prior to WWII, the Soviets implemented a policy encouraging greater Soviet internationalism, or Korenizatsiia. However, this would quickly disintegrate, creating a more centrist and Russian catered Soviet Republics. Integrative policies would reverse under Stalin and worsen as the war progressed. Nevertheless, this apotheosized ideology of integration never matched reality, only existing in propaganda, another glorified fabrication of the Soviet legacy. Despite the official stance of internationalism, the Soviet Union possessed the latter including mass ethnic deportations, Russian chauvinism, and racial hierarchies that would strengthen with the growing suspicion of nationalities outside of Russia. However, it is important to note armies were not racially segregated or policed not nearly to the extent we can observe in the United States and Great Britain. 
 These reversals would go as far as mass deporting ethnicities such as Ukrainians in 1939-1941, the Volga Germans in 1941, the Crimean Tatars in 1944, the Chechens and other Caucasus peoples throughout 1943-45.
@@ -81,3 +89,5 @@ Hitler coined a term which is the “un-people” referring to how he thinks the
 [^16]:De, Wen. “Bloody History: Japanese Army Slaughtered More than 100,000 Filipino Civilians in Desperate Revenge in Manila Massacre - Global Times.” Accessed November 28, 2024. 
 [^17]:Comfort Women Definition, History, & Facts  Britannica. 23 Nov. 2024, https://www.britannica.com/topic/comfort-women.
 [^18]:Carlos P. Romulo  Filipino Diplomat, Pulitzer Prize Winner  Britannica. https://www.britannica.com/biography/Carlos-P-Romulo. Accessed 28 Nov. 2024.
+[^19]:Japanese Propaganda · World War II 2022 · Santa Clara University Digital Exhibits. https://dh.scu.edu/exhibits/exhibits/show/world-war-ii-2022/propaganda-in-wwii/japanese-propaganda. Accessed 28 Nov. 2024.
+[^20]:Japan’s Struggle to End the War - 1946. http://public1.nhhcaws.local/research/library/online-reading-room/title-list-alphabetically/j/japans-struggle-end-war-1946.html. Accessed 28 Nov. 2024.
