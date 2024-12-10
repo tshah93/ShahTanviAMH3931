@@ -43,7 +43,14 @@ The most infamous example of Japanese cruelty is the Nanjing Massacre in 1937. I
 
 Their behavior didn’t only manifest itself in killings, but sadistic experimentation, with them testing biological weapons on foreign populations, the most infamous group being Unit 731. This Unit would release diseases like the plague, anthrax, and cholera to Chinese civilians in order to make room for Japanese settlers[^14]. Japan’s brutality to other Asians wasn’t limited to China. Throughout the continent, similar incidents of ethnic cleansing and acts of genocide were well documented. In Vietnam, Japan ruthlessly requisitioned food from Northern Vietnam leading to an event called The Great Famine, where an estimated 1-2 million northern Vietnamese starved to death[^15]. In the Philippines, an infamous event known as the Manila Massacre led to an estimated 100,000 dead civilians due to systematic executions by the Japanese occupiers.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Manila'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Manila'" %} {% include media.html pages=media %}[^16]
+
+And throughout the empire, Japan engaged in abducting women and sexually abusing them. “Ianfu,” roughly translated to “comfort women” was what they called this systemic sex slavery[^17]. The pattern throughout all this is clear: Japan was no liberator and used their advantageous position to rape and plunder Asia on a scale even larger than the west they claimed to free them from. Carlos P. Romulo, a Filipino diplomat of the time who saw the invasion of the Philippines said it best: 
+
+"Japan did not come to liberate; they came to conquer. We saw no liberators, only men who brought with them violence and tyranny in their wake[^18]."
+
+As Japan’s war efforts intensified, specifically after the bombing of Pearl Harbor in 1941, their view of racial supremacy began to change as mounting defeats from the American forces came. Japanese propaganda initially labeled the United States as weak and apathetic, one weakened by multiculturalism. They often made fun of the “The American Melting Pot” in propaganda, criticizing the United States’s diverse population. 
+
 
 ## USSR
 Prior to WWII, the Soviets implemented a policy encouraging greater Soviet internationalism, or Korenizatsiia. However, this would quickly disintegrate, creating a more centrist and Russian catered Soviet Republics. Integrative policies would reverse under Stalin and worsen as the war progressed. Nevertheless, this apotheosized ideology of integration never matched reality, only existing in propaganda, another glorified fabrication of the Soviet legacy. Despite the official stance of internationalism, the Soviet Union possessed the latter including mass ethnic deportations, Russian chauvinism, and racial hierarchies that would strengthen with the growing suspicion of nationalities outside of Russia. However, it is important to note armies were not racially segregated or policed not nearly to the extent we can observe in the United States and Great Britain. 
@@ -71,3 +78,6 @@ Hitler coined a term which is the “un-people” referring to how he thinks the
 [^13]:“Interview with Li Xiuying.” Imperial War Museums, https://www.iwm.org.uk/collections/item/object/80022517. Accessed 28 Nov. 2024.
 [^14]:“Human Experimentation at Unit 731.” Pacific Atrocities Education, https://www.pacificatrocities.org/human-experimentation.html. Accessed 28 Nov. 2024.
 [^15]:“Legacy of the 1944-45 Vietnam Famine.” Pacific Atrocities Education, https://www.pacificatrocities.org/legacy-of-the-1944-45-vietnam-famine.html. Accessed 28 Nov. 2024
+[^16]:De, Wen. “Bloody History: Japanese Army Slaughtered More than 100,000 Filipino Civilians in Desperate Revenge in Manila Massacre - Global Times.” Accessed November 28, 2024. 
+[^17]:Comfort Women Definition, History, & Facts  Britannica. 23 Nov. 2024, https://www.britannica.com/topic/comfort-women.
+[^18]:Carlos P. Romulo  Filipino Diplomat, Pulitzer Prize Winner  Britannica. https://www.britannica.com/biography/Carlos-P-Romulo. Accessed 28 Nov. 2024.
