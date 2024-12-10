@@ -46,10 +46,10 @@ Hitler coined a term which is the “un-people” referring to how he thinks the
 
 [^1]:“Japan - Imperialism, Shoguns, Feudalism  Britannica,” November 26, 2024. https://www.britannica.com/place/Japan/The-emergence-of-imperial-Japan.
 [^2]:Pacific Atrocities Education. “Visual Puppeteer: Japanese Propaganda During WWII.” Accessed November 28, 2024. http://www.pacificatrocities.org/1/post/2019/01/visual-puppeteer-japanese-propaganda-during-world-war-ii.html.
-[^3]:Manchukuo  Imperialism, Japanese Occupation, & Map | Britannica.” Accessed November 28, 2024. https://www.britannica.com/place/Manchukuo.
+[^3]:Manchukuo Imperialism, Japanese Occupation, & Map Britannica.” Accessed November 28, 2024. https://www.britannica.com/place/Manchukuo.
 [^4]:Hirohito  Biography, Full Name, World War II, Surrender, & Facts | Britannica. 19 Nov. 2024, https://www.britannica.com/biography/Hirohito.
-[^5]:Greater East Asia Co-Prosperity Sphere (GEACPS) | Definition, Summary, History, Purpose, & Japan | Britannica. 11 Oct. 2024, https://www.britannica.com/topic/Greater-East-Asia-Co-prosperity-Sphere.
+[^5]:Greater East Asia Co-Prosperity Sphere (GEACPS) Definition, Summary, History, Purpose, & Japan | Britannica. 11 Oct. 2024, https://www.britannica.com/topic/Greater-East-Asia-Co-prosperity-Sphere.
 [^6]: “Visual Puppeteer: Japanese Propaganda During WWII.” Pacific Atrocities Education, http://www.pacificatrocities.org/1/post/2019/01/visual-puppeteer-japanese-propaganda-during-world-war-ii.html. Accessed 28 Nov. 2024.
 [^7]:Milestones in the History of U.S. Foreign Relations - Office of the Historian. https://history.state.gov/milestones/1937-1945/pearl-harbor. Accessed 28 Nov. 2024.
-[^8]:Mukden Incident  Summary  Britannica. https://www.britannica.com/event/Mukden-Incident. Accessed 28 Nov. 2024.
-[^9]:“Marco Polo Bridge Incident  Sino-Japanese War, 1937, Beijing | Britannica,” November 25, 2024. https://www.britannica.com/event/Marco-Polo-Bridge-Incident.
+[^8]:Mukden Incident Summary Britannica. https://www.britannica.com/event/Mukden-Incident. Accessed 28 Nov. 2024.
+[^9]:“Marco Polo Bridge Incident  Sino-Japanese War, 1937, Beijing Britannica,” November 25, 2024. https://www.britannica.com/event/Marco-Polo-Bridge-Incident.
