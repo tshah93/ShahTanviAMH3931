@@ -51,7 +51,7 @@ And throughout the empire, Japan engaged in abducting women and sexually abusing
 
 As Japan’s war efforts intensified, specifically after the bombing of Pearl Harbor in 1941, their view of racial supremacy began to change as mounting defeats from the American forces came. Japanese propaganda initially labeled the United States as weak and apathetic, one weakened by multiculturalism. They often made fun of the “The American Melting Pot” in propaganda, criticizing the United States’s diverse population. 
 
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'demons'" %} {% include media.html pages=media %}
 ## USSR
 Prior to WWII, the Soviets implemented a policy encouraging greater Soviet internationalism, or Korenizatsiia. However, this would quickly disintegrate, creating a more centrist and Russian catered Soviet Republics. Integrative policies would reverse under Stalin and worsen as the war progressed. Nevertheless, this apotheosized ideology of integration never matched reality, only existing in propaganda, another glorified fabrication of the Soviet legacy. Despite the official stance of internationalism, the Soviet Union possessed the latter including mass ethnic deportations, Russian chauvinism, and racial hierarchies that would strengthen with the growing suspicion of nationalities outside of Russia. However, it is important to note armies were not racially segregated or policed not nearly to the extent we can observe in the United States and Great Britain. 
 These reversals would go as far as mass deporting ethnicities such as Ukrainians in 1939-1941, the Volga Germans in 1941, the Crimean Tatars in 1944, the Chechens and other Caucasus peoples throughout 1943-45.
