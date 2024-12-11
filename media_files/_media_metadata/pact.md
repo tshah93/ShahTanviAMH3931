@@ -9,7 +9,7 @@ creator:
 _date: 1936
 source: The National WWII Museum
 
-_path: /media_files/images/pact.jpg 
+_path: /media_files/images/pact.jpeg 
 layout: media_description
 
 --- 
