@@ -70,6 +70,10 @@ Nevertheless, Soviet mass deportations were priorly carried out, including the d
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'family'" %} {% include media.html pages=media %}
 
+All deportations had one aspect in common, in which policies of deportation exclusively targeted groups of people without trial, and without promise of return to their homeland forced to remain in the most unknown of places (a policy of isolation, described by authorities). Russians were the sole nationals not to undergo-ethnic cleansing and re-education.  Overall, the government operated approximately 110 deportation processes throughout the republics. In Ukraine alone, four waves of mass deportations totaled an approximate 288,000 people between February of 1940 to May-June of 1941.
+
+In general, the USSR was extremely diverse, home to over 90 nationalities, and over 90 indigenous groups. In fact, they were celebrated for their progressive internationalism by foreigners including modern Harvard historian Terry Martin deeming it as “the world’s first Affirmative Action Empire.” Simultaneously, diversity was also a source of conflict as countless nationalities fought for the continuance of their heritage in the form of language, religion, and culture for centuries. Not to mention, one overlooked event: the Holodomor (1932-1933) was a Ukrainian genocide under the guise of famine, murdering millions.
+
 
 
 ## Germany
