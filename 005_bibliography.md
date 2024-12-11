@@ -7,7 +7,7 @@ number: 5
 # Bibliography
 
 ## Primary Sources
-Japanese Propaganda  World War II 2022  Santa Clara University Digital Exhibits. https://dh.scu.edu/exhibits/exhibits/show/world-war-ii-2022/propaganda-in-wwii/japanese-propaganda. Acessed November 28, 2024.
+[Japanese Propaganda  World War II 2022  Santa Clara University Digital Exhibits.]( https://dh.scu.edu/exhibits/exhibits/show/world-war-ii-2022/propaganda-in-wwii/japanese-propaganda.) Acessed November 28, 2024.
 
 ## Secondary Sources
 
