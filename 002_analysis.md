@@ -132,9 +132,9 @@ The mass killings soared with the creation of extermination camps like Auschwitz
 [^18]:Carlos P. Romulo  Filipino Diplomat, Pulitzer Prize Winner  Britannica. https://www.britannica.com/biography/Carlos-P-Romulo. Accessed 28 Nov. 2024.
 [^19]:Japanese Propaganda · World War II 2022 · Santa Clara University Digital Exhibits. https://dh.scu.edu/exhibits/exhibits/show/world-war-ii-2022/propaganda-in-wwii/japanese-propaganda. Accessed 28 Nov. 2024.
 [^20]:Japan’s Struggle to End the War - 1946. http://public1.nhhcaws.local/research/library/online-reading-room/title-list-alphabetically/j/japans-struggle-end-war-1946.html. Accessed 28 Nov. 2024.
-[^21]: https://encyclopedia.ushmm.org/content/en/article/the-nuremberg-race-laws 
+[^21]:https://encyclopedia.ushmm.org/content/en/article/the-nuremberg-race-laws 
 https://www.archives.gov/publications/prologue/2010/winter/nuremberg.html 
-[^22]: https://www.britannica.com/event/Holocaust/The-Einsatzgruppen-and-their-fellow-mobile-killers
+[^22]:https://www.britannica.com/event/Holocaust/The-Einsatzgruppen-and-their-fellow-mobile-killers
 [^23]:Dulieu, Samantha. “The Wiener Holocaust Library Launches New Educational Maps to Teach the Holocaust .” The Wiener Holocaust Library, 21 Nov. 2024, wienerholocaustlibrary.org/2024/11/20/the-wiener-holocaust-library-launches-new-educational-maps-to-teach-the-holocaust/
 [^24]:Etges, Andreas. "A Reflection on and a Conversation about History, Memory, and Education at the Dachau Concentration Camp Memorial" International Public History 6, no. 2 (2023): 129-142. https://doi.org/10.1515/iph-2023-2015
 [^25]:Etges, “A Reflection on and a Conversation about History, Memory, and Education at the Dachau Concentration Camp Memorial,” 
