@@ -68,6 +68,9 @@ These reversals would go as far as mass deporting ethnicities such as Ukrainians
 
 Nevertheless, Soviet mass deportations were priorly carried out, including the destruction of members of the Ukrainian intelligentsia and elite, who empowered their nation. This includes other ethnicities present in Ukraine that threatened the pure-Soviet man: ethnicities such as Ukrainians, Germans, Greeks, Crimean Tatars, Jews, and Poles were attempted to be erased. Kulaks were another group of wealthy Ukrainian farmers threatening the Soviet Russian status quo. Met with resistance, land was forcibly nationalized and collectivized further deporting the Ukrainian peasantry that dared to defy Soviet authority to the far east of Russia, a punishing terrain. Only hundreds of Ukrainians were able to return to their homeland unlike the mass majority of millions that perished. Both collectivization and the attempted eradication of Kulaks laid the groundwork for mass deportations soon after during the Second War.
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'family'" %} {% include media.html pages=media %}
+
+
 
 ## Germany
 ### Ideology on Racial and Ethnic Issues
