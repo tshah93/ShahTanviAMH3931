@@ -7,8 +7,9 @@ number: 5
 # Bibliography
 
 ## Primary Sources
-[Japanese Propaganda  World War II 2022  Santa Clara University Digital Exhibits.]( https://dh.scu.edu/exhibits/exhibits/show/world-war-ii-2022/propaganda-in-wwii/japanese-propaganda.) Acessed November 28, 2024.
+Japanese Propaganda  World War II 2022  Santa Clara University Digital Exhibits. https://dh.scu.edu/exhibits/exhibits/show/world-war-ii-2022/propaganda-in-wwii/japanese-propaganda. Acessed November 28, 2024.
 
+“Interview with Li Xiuying.” Imperial War Museums, https://www.iwm.org.uk/collections/item/object/80022517. Accessed November 28, 2024.
 ## Secondary Sources
 
 Barnes, Steven A. “All for the Front, All for Victory! The Mobilization of Forced Labor in the Soviet Union during World War Two.” International Labor and Working-Class History 58 (2000): 239–60. https://doi.org/10.1017/S0147547900003690.
