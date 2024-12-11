@@ -74,7 +74,7 @@ All deportations had one aspect in common, in which policies of deportation excl
 
 In general, the USSR was extremely diverse, home to over 90 nationalities, and over 90 indigenous groups. In fact, they were celebrated for their progressive internationalism by foreigners including modern Harvard historian Terry Martin deeming it as “the world’s first Affirmative Action Empire.” Simultaneously, diversity was also a source of conflict as countless nationalities fought for the continuance of their heritage in the form of language, religion, and culture for centuries. Not to mention, one overlooked event: the Holodomor (1932-1933) was a Ukrainian genocide under the guise of famine, murdering millions.
 
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'people'" %} {% include media.html pages=media %}
 
 ## Germany
 ### Ideology on Racial and Ethnic Issues
