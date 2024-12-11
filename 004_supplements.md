@@ -16,6 +16,7 @@ Do you have supplementary materials (such as media files) or links for further i
 
 [WWII Propaganda:The Influence of Racism](https://cwp.missouri.edu/2012/wwii-propaganda-the-influence-of-racism/)
 
+[Racial, Ethnic, and Religious Minorities in World War II: A Resource Guide](https://guides.loc.gov/racial-ethnic-and-religious-minorities-in-world-war-ii/introduction)
 
 # Supplementary Media Files
 
