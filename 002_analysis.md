@@ -88,6 +88,10 @@ Targeting the Chechen and Ingush populations, the USSR would launch a massive de
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'deportation'" %} {% include media.html pages=media %}
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'train'" %} {% include media.html pages=media %}
+
+
+
 ## Germany
 ### Ideology on Racial and Ethnic Issues
 The basic ideology on racial and ethnic issues in Nazi Germany pointed to the fact that they believed that Jews were an inferior race. This way of thinking is known as Antisemitism. Adolf Hitler embraced Antisemitism in his baseline thoughts, feelings, and actions. Actions executed in Nazi Germany include the boycotting of Jewish-owned businesses, the Nuremberg Race Laws, and the Civil Service Act are a direct result of how Hitler viewed the Jewish Race and convinced his citizens to act towards Jewish people. 
