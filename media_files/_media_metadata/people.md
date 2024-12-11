@@ -3,7 +3,7 @@
 name: people
 media_type: image
 
-_title:Peoples of the Soviet Union
+_title: Peoples of the Soviet Union
 description: 
 creator: 
 _date: 
