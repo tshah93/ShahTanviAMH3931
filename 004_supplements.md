@@ -20,4 +20,4 @@ Do you have supplementary materials (such as media files) or links for further i
 
 # Supplementary Media Files
 
-{% assign media = site.media_metadata | where_exp: “item”, “item.name == 'racial'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'racial'" %} {% include media.html pages=media %}
