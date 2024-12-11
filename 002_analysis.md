@@ -86,7 +86,7 @@ The Soviet Union’s treatment of ethnicities such as Crimean Tatars, Chechens, 
 
 Targeting the Chechen and Ingush populations, the USSR would launch a massive deportation operation (‘Ardakh’ meaning exodus in Chechen) on February 23, 1944, with brutal swiftness. Around 400,000 to 500,000 Chechens and Ingush were forced to relocate, oftentimes with little to no warning, with 25% of the deportees perishing during the voyage. Crimean Tatars faced greater mortality, with approximately 54% of the population dying (between 1944-1952). Overall, these deportations bore heavy long consequences on ethnic groups fueling later nationalist sentiments.
 
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'deportation'" %} {% include media.html pages=media %}
 
 ## Germany
 ### Ideology on Racial and Ethnic Issues
