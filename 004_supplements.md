@@ -14,7 +14,8 @@ Do you have supplementary materials (such as media files) or links for further i
 
 # Supplementary Websites
 
-Place your links here to websites that have information about your topic.
+[WWII Propaganda:The Influence of Racism](https://cwp.missouri.edu/2012/wwii-propaganda-the-influence-of-racism/)
+
 
 # Supplementary Media Files
 
