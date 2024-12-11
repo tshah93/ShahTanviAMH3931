@@ -3,7 +3,7 @@
 name: racial
 media_type: video
 
-_title: Ideologies of Racial Superiority & Purity: Germany, Japan, and Mass Murder in World War II
+_title:Ideologies of Racial Superiority & Purity: Germany, Japan, and Mass Murder in World War II
 description: 
 creator: Stroum Jewish Studies
 _date: 2020
